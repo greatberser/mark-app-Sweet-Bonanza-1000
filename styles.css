@@ -12,7 +12,6 @@ body {
 }
 
 #hero {
-  background-image: url('https://yourdomain.com/images/hero-bg.webp');
   height: 100vh;
   display: flex;
   align-items: center;
